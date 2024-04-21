@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=10&color=F7F7F7&random=true&width=800&lines=C%3A%5CWindows%5CSystem32%3E+ssh+sane%40saneboorai)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=04F73A&random=false&width=800&lines=Happiness+is+a+knife;When+the+world+rolls+on+its+side;And+your+mind's+on+fire;Don't+you+know+that+happiness+is+a+knife%3F;When+the+worlds+are+on+fire%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=15&color=F7F7F7&random=true&width=800&lines=C%3A%5CWindows%5CSystem32%3E+ssh+sane%40saneboorai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=15&pause=1000&color=04F73A&random=false&width=800&lines=Happiness+is+a+knife;When+the+world+rolls+on+its+side;And+your+mind's+on+fire;Don't+you+know+that+happiness+is+a+knife%3F;When+the+worlds+are+on+fire%3F)](https://git.io/typing-svg)
 
 ```python
 print("Hello, World!)
