@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @sane800r41
+![Chomik]([https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fchomik-music-gamer-chomik-chomikuj-chomikbox-gif-20386030&psig=AOvVaw2HwtL5AUUOaq8c0weu96Iq&ust=1713782286299000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPik3seO04UDFQAAAAAdAAAAABAQ](https://imgflip.com/gif/8nicww))  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=10&color=F7F7F7&random=true&width=800&lines=C%3A%5CWindows%5CSystem32%3E+ssh+sane%40saneboorai)](https://git.io/typing-svg)
+
 ```python
 print("Hello, World!)
 if not user == skid:
